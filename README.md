@@ -8,6 +8,7 @@ Contact information:
 [![Gmail Badge](https://img.shields.io/badge/Leonardocoel98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocoel98@gmail.com?subject=Hello")
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Leonardocoel)
 #
+### Projects:
 [![BACK END PROJECTS](https://img.shields.io/badge/TRYBE-BACK_END_PROJECTS-sucess?style=for-the-badge)](https://github.com/stars/Leonardocoel/lists/back-end-trybe)
 #
 ### Languages and tools I learned:
