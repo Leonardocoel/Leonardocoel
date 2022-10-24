@@ -10,6 +10,7 @@ Contact information:
 #
 ### Projects:
 [![BACK END PROJECTS](https://img.shields.io/badge/TRYBE-BACK_END_PROJECTS-sucess?style=for-the-badge)](https://github.com/stars/Leonardocoel/lists/back-end-trybe)
+[![PYTHON & COMPUTER SCIENCE PROJECTS](https://img.shields.io/badge/TRYBE-PYTHON_&_COMPUTER_SCIENCE_PROJECTS-sucess?style=for-the-badge&color=yellow)](https://github.com/stars/Leonardocoel/lists/computer-science-python-trybe)
 #
 ### Languages and tools I learned:
 
