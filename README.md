@@ -1,6 +1,6 @@
 ## Hi There! :vulcan_salute:
-- My name is Leonardo Coelho, I'm from Santa Maria/RS, Brazil and I'm looking for opportunities to develop myself professionally.
-- Now that I've finished my course at Trybe I'm focusing on improving my knowledge, mainly in back-end,  and looking for job opportunities.
+- My name is Leonardo Coelho, I'm from Santa Maria/RS, Brazil 
+- I'm focusing on improving my knowledge, mainly in back-end,  and looking for opportunities to develop myself professionally.
 
 Contact information:
 
